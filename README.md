@@ -1,7 +1,7 @@
 #About me
 # 👋I'm Kartikey
 
-🎓 I'm a 3rd year Computer Science student and a Frontend Developer from India 🇮🇳
+🎓 Computer Science student and a Frontend Developer from India 🇮🇳
 
 ## 💻 About Me
 
