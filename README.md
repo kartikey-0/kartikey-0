@@ -16,8 +16,6 @@
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: [www.linkedin.com/in/kartikey-saxena-002162292]
--🔗 Gmail: [kartikeysaxena107@gmail.com]
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-saxena-002162292/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikeysaxena107@gmail.com)
 
