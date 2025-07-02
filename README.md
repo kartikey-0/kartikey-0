@@ -1,5 +1,5 @@
-#About me
-# 👋I'm Kartikey
+# About Me :)
+# 👋I'm Kartikey Saxena
 
 🎓 Computer Science student and a Frontend Developer from India 🇮🇳
 
