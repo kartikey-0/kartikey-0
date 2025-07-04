@@ -7,7 +7,6 @@
 
 - 🛠️ Building real-world web projects to strengthen my frontend skills
 - 💬 Ask me about **HTML**, **CSS**, **JavaScript**, or frontend project ideas
-- ✨ I enjoy designing UI with **Canva** and coding in **VS Code**
 - 📌 Looking forward to contributing to open source soon
 
 ## 🧰 Tech Stack & Tools
