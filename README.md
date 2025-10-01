@@ -1,7 +1,7 @@
 # About Me :)
 # 👋I'm Kartikey Saxena
 
-🎓 Computer Science student and a Frontend Developer from India 🇮🇳
+🎓 Computer Science student and a Frontend Developer 
 
 ## 💻 About Me
 
