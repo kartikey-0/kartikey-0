@@ -4,7 +4,7 @@
 
 ## 💻 About Me:-
 
- ! Currently learning react.js and three.js
+ !   Currently learning react.js and three.js
  
 🛠️ I build scalable, user-friendly web applications that focus on performance, responsiveness, and clean UI/UX.
 
