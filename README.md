@@ -1,14 +1,12 @@
-👋 I'm Kartikey Saxena
+👋 Kartikey Saxena Here, 
 
-🎓 Computer Science Student | Frontend Developer
+🎓 Computer Science Student | Frontend Developer | Aspiring FullStack Developer
 
 ## 💻 About Me:-
 
-🛠️ Currently learning react.js and three.js
+🛠️ Currently learning react.js and DSA
  
-🛠️ I build scalable, user-friendly web applications that focus on performance, responsiveness, and clean UI/UX.
-
-🛠️ Passionate about learning new frontend technologies and frameworks to create immersive experiences on the web.
+🛠️ I loves building imaginary frontend webpages,and kinda exploring more. 
 
 ## 🧰 Tech Stack & Tools
 
