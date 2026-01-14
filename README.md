@@ -23,11 +23,12 @@
 
 ## 📊 GitHub Stats & Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=kartikey-saxena\&style=for-the-badge\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=kartikey-0&style=for-the-badge&color=blue)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kartikey-0&theme=tokyonight&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikey-0&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ---
 
@@ -44,5 +45,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kartikeysaxena107@gmail.com)
 
 ---
-
-✨ *Still learning. Still building. Still growing.*
