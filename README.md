@@ -25,11 +25,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kartikey-saxena\&style=for-the-badge\&color=blue)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kartikey-saxena\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kartikey-0&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikey-saxena\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey-saxena\&layout=compact\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikey-0&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
