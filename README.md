@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Kartikey Saxena                                               
-🎓 **Computer Science Student** | 🎨 **Frontend Developer** | 🚀 **Aspiring Full‑Stack Developer**
+ 🎨 **Frontend Developer** | 🚀 **Aspiring Full‑Stack Developer**
+ 
 ---
 
 ## 💻 About Me :-
@@ -8,6 +9,7 @@
 * 🧠 Love building **imaginary UI ideas** and turning them into clean, responsive webpages
 
 ---
+
 ## 🧰 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge\&logo=html5\&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-2196f3?style=for-the-badge\&logo=css3\&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-ffeb3b?style=for-the-badge\&logo=javascript\&logoColor=000)![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react\&logoColor=61dafb)![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=three.js\&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge\&logo=nodedotjs\&logoColor=white)![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge\&logo=python\&logoColor=white)![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge\&logo=cplusplus\&logoColor=white)
