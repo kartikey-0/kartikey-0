@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kartikey Saxena                                                ![Profile Views](https://komarev.com/ghpvc/?username=kartikey-0&style=for-the-badge&color=blue)
+# 👋 Hi, I'm Kartikey Saxena                                               
 🎓 **Computer Science Student** | 🎨 **Frontend Developer** | 🚀 **Aspiring Full‑Stack Developer**
 ---
 
@@ -18,9 +18,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge\&logo=canva\&logoColor=white)
-
----
-
 
 ---
 
