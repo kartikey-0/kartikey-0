@@ -22,7 +22,10 @@
 ![Canva](https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge\&logo=canva\&logoColor=white)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=KartikeySaxena&label=Profile%20Views&color=0d1117&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KartikeySaxena&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
+</p>
+
 ---
 
 ## 🧱 Quote That Defines Me
