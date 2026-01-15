@@ -22,6 +22,9 @@
 ![Canva](https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge\&logo=canva\&logoColor=white)
 
 ---
+![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
+
+---
 
 ## 🧱 Quote That Defines Me
 
