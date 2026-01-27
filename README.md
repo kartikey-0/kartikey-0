@@ -20,6 +20,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge\&logo=canva\&logoColor=white)
+---
+##Github Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KartikeySaxena&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 <p align="center">
