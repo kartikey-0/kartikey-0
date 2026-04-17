@@ -28,12 +28,6 @@
 
 ---
 
-## 🧱 Quote That Defines Me
-
-> **"Brick by brick, I build my wall."** 🧠🧱
-> *Consistency beats motivation.*
-
----
 
 ## 📫 Connect With Me
 
